@@ -43,11 +43,12 @@ public class exercicio4 {
 		
 		System.out.println("\n");
 		
-		System.out.println("\nEscolha uma das opções do menu: ");
-		System.out.println("\n1 - Some as duas matrizes.");
-		System.out.println("\n2 - Subtraia a primeira matriz da segunda.");
-		System.out.println("\n3 - Adicione uma constante as duas matrizes.");
-		System.out.println("\n4 - Imprima as matrizes.");
+		System.out.println("\n \t Escolha uma das opções do Menu: ");
+		System.out.println("\n(1) Some as duas matrizes.");
+		System.out.println("\n(2) Subtraia a primeira matriz da segunda.");
+		System.out.println("\n(3) Adicione uma constante as duas matrizes.");
+		System.out.println("\n(4) Imprima as matrizes.");
+		System.out.println("\nDigite a sua opção: ");
 		mn = leia.nextInt();
 		
 		System.out.println("\n");
@@ -60,6 +61,7 @@ public class exercicio4 {
 					}
 				}
 				System.out.printf("\nResultado da soma dos valores das duas matrizes: ");
+				
 				for(l=0;l<2;l++){
 					for(c=0;c<2;c++){						
 						System.out.printf("\n %.1f ",m3[l][c]);
