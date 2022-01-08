@@ -4,7 +4,7 @@ package ex_repeticao;
 
 import java.util.*;
 
-public class exercicio2for {
+public class Exercicio2For {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

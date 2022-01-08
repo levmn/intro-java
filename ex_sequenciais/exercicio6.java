@@ -6,7 +6,7 @@ package ex_sequenciais;
 
 import java.util.Scanner;
 
-public class exercicio6 {
+public class Exercicio6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

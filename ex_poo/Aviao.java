@@ -2,19 +2,19 @@
 classe, em seguida crie um objeto avião, defina as instancias deste objeto e 
 apresente as informações deste objeto no console.*/
 
-package poo;
+package ex_poo;
 
-public class aviao {
+public class Aviao {
 	private String corAviao;
 	private String porteAviao;
 	private String nomeProprietario;
 	
-	public void imprimir(){
+	public void status(){
 		// TODO Auto-generated method stub
-		System.out.println("\nA cor do avião é "+corAviao+". \nO porte do avião é "+porteAviao+". \nO proprietário da aeronave é "+nomeProprietario+".");
+		System.out.println("A cor do avião é "+corAviao+". \nO porte do avião é "+porteAviao+". \nO(a/e) proprietário(a/e) da aeronave é "+nomeProprietario+".");
 	}	
 
-	public aviao (String corAviao, String porteAviao, String nomeProprietario){
+	public Aviao (String corAviao, String porteAviao, String nomeProprietario){
 		this.corAviao=corAviao;
 		this.porteAviao=porteAviao;
 		this.nomeProprietario=nomeProprietario;

@@ -15,7 +15,7 @@ package ex_repeticao;
 
 import java.util.*;
 
-public class exercicio4while {
+public class Exercicio4While {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

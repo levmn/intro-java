@@ -4,7 +4,7 @@ package ex_arrays;
 
 import java.util.*;
 
-public class exercicio3 {
+public class Exercicio3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

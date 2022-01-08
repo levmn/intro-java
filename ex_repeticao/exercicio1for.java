@@ -3,7 +3,7 @@ obtemos resto = 5.*/
 
 package ex_repeticao;
 
-public class exercicio1for {
+public class Exercicio1For {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
